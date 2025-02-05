@@ -107,8 +107,8 @@
 
 ###
 
-<p align="center">
-  <img src="https://github.com/HassanMurtazaa/HassanMurtazaa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  ![snake gif](https://github.com/Hassan-Murtazaa/Hassan-Murtazaa/blob/output/github-snake-dark.svg)
+</div>
 
 ###
