@@ -106,6 +106,7 @@
 </div>
 
 ###
+<h2 align="left">My Contributions</h2>
 
 ![snake gif](https://github.com/Hassan-Murtazaa/Hassan-Murtazaa/blob/output/github-snake-dark.svg)
 
