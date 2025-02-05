@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-💬 <b>Ask me about:</b> React.js, Node.js, Express.js, Ruby on Rails, MongoDB, PostgreSQL, MySQL, Java, Python<br>
-📫 <b>How to reach me:</b> hassanmurtaza767@gmail.com<br>
-🎓 <b>Education:</b> BS (Software Engineering) - FAST-NU, Lahore<br>
-🤝 <b>Open to:</b> Collaborations, open-source contributions, freelancing, mentoring
+💬 Ask me about: <b>React.js, Node.js, Express.js, Ruby on Rails, MongoDB, PostgreSQL, MySQL, Java, Python</b><br>
+📫 How to reach me: <a href="mailto:hassanmurtaza767@gmail.com"><b>hassanmurtaza767@gmail.com</b></a><br>
+🎓 Education: <b>BS (Software Engineering) - FAST-NU, Lahore</b><br>
+🤝 Open to: <b>Collaborations, open-source contributions, freelancing, mentoring</b>
 </p>
 
 ###
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c logo" />
 </div>
 
 ###
@@ -46,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
 </div>
@@ -99,6 +101,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 </div>
 
 ###
